@@ -16,3 +16,4 @@ Next steps:
 + mango slices
 + peanut butter cups
 + popcorn
++chicken
